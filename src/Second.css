@@ -1,0 +1,19 @@
+.game{
+    color: red;
+}
+.work{ 
+    color: aqua;
+}
+
+.top{
+    border:  500px solid black ;
+}
+
+
+.middle{
+    border:  200px solid black ;
+}
+
+.bottom{
+    border:  100px solid black ;
+}
